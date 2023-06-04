@@ -1,1 +1,1 @@
-# This file uses for QLTT_LT
+# QLTT_LT
